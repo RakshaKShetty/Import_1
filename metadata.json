@@ -1,20 +1,18 @@
 {
   "fileFormatVersion": 1,
   "clientSchemaVersion": 1,
-  "serverSchemaVersion": 1,
+  "serverSchemaVersion": 2,
   "publishedDefaultPageName": "Public.anime",
   "unpublishedDefaultPageName": "Public.anime",
   "editModeTheme": {
     "name": "Classic",
     "isSystemTheme": true,
-    "deleted": false,
-    "policies": []
+    "deleted": false
   },
   "publishedTheme": {
     "name": "Classic",
     "isSystemTheme": true,
-    "deleted": false,
-    "policies": []
+    "deleted": false
   },
   "publishedLayoutmongoEscapedWidgets": {
     "Mongo_crud": [
